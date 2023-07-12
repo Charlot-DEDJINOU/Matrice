@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1688930346 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\lu.cpp
+	"lu.h"
+
+1688932280 c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\lu.h
+	"matrice.h"
+
+1688942888 c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\matrice.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<string>
+	"irreductible.h"
+
+1689053841 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\matrice.cpp
+	"matrice.h"
+
+1688957178 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\irreductible.cpp
+	"irreductible.h"
+
+1688957178 c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\irreductible.h
+	<cmath>
+	<algorithm>
+	<iostream>
+
+1688955856 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\main.cpp
+	<iostream>
+	"matrice.h"
+	"lu.h"
+
