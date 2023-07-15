@@ -2,13 +2,13 @@
 #define IRREDUCTIBLE_H_INCLUDED
 
 #include <cmath>
-#include <algorithm>
 #include <iostream>
+
 
 class Irreductible {
 
 public :
-    static int pgcd(int a , int b);
+    static int pgcd(long long a , long long b);
     static void forme_irreductible(double number) ;
 };
 

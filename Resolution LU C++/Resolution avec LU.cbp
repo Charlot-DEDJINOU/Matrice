@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="irreductible.cpp" />
+		<Unit filename="irreductible.h" />
+		<Unit filename="lu.cpp" />
+		<Unit filename="lu.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="matrice.cpp" />
+		<Unit filename="matrice.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

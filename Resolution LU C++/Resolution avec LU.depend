@@ -13,19 +13,19 @@
 	<string>
 	"irreductible.h"
 
-1689053841 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\matrice.cpp
+1689280828 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\matrice.cpp
 	"matrice.h"
 
-1688957178 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\irreductible.cpp
+1689280029 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\irreductible.cpp
 	"irreductible.h"
 
-1688957178 c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\irreductible.h
+1689285068 c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\irreductible.h
 	<cmath>
-	<algorithm>
 	<iostream>
 
-1688955856 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\main.cpp
+1689286083 source:c:\users\charlot espoir\documents\projet\programmation\autres\matrice\resolution avec lu\main.cpp
 	<iostream>
 	"matrice.h"
 	"lu.h"
+	"irreductible.h"
 

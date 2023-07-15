@@ -1,13 +1,18 @@
 #include <iostream>
 #include "matrice.h"
 #include "lu.h"
+#include "irreductible.h"
 
 using namespace std;
 
 int main()
 {
 
-    cout<<endl<<"=================== LU matrice decomposition ===================="<<endl<<endl;
+    cout << "\n\t# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #\n";
+    cout << "\t#                                                                                         #\n";
+    cout << "\t#                          RESOLUTION D'UN SYSTEME D'EQUATION                             #\n";
+    cout << "\t#                                                                                         #\n";
+    cout << "\t# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #\n\n";
 
     int N ;
     cout<<"Entrez le rang de la matrice A : " ;
